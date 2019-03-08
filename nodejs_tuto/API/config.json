@@ -1,0 +1,5 @@
+{
+	"rootAPI": "/api/members",
+	"port": "3000"
+
+}
